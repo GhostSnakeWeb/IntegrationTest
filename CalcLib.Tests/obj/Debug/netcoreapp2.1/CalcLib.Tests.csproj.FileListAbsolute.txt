@@ -1,0 +1,17 @@
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.Tests.deps.json
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.Tests.runtimeconfig.json
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.Tests.runtimeconfig.dev.json
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.Tests.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.Tests.pdb
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\bin\Debug\netcoreapp2.1\CalcLib.pdb
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.csprojAssemblyReference.cache
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.AssemblyInfoInputs.cache
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.AssemblyInfo.cs
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.csproj.CopyComplete
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.dll
+C:\Users\Vladislav Kondrakov\source\repos\CalcLib\CalcLib.Tests\obj\Debug\netcoreapp2.1\CalcLib.Tests.pdb
